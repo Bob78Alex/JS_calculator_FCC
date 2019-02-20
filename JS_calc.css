@@ -1,0 +1,27 @@
+html, body {
+	background-color: #d3d3d3;
+}
+h1 {
+	font-family: arial;
+	font-size: 22px;
+}
+.outputField {
+	background-color: white;
+	width: 250px;
+	height: 75px;
+	border-top-right-radius: 2em;
+	 border-top-left-radius: 2em;
+	 margin-right: auto;
+	 margin-left: auto;
+	 padding-top: 30px;
+}
+#calculatorField{
+	background-color: hsl(270, 50%, 79%);
+	width: 250px;
+	padding-top: 20px;
+	padding-bottom: 30px;
+	border-bottom-left-radius: 2em;
+	border-bottom-right-radius: 2em;
+	margin-left: auto;
+	margin-right: auto;
+}
